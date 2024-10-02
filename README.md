@@ -12,7 +12,7 @@ Create an application that ensures the Docker containers managements. Your appli
 <h2> Running </h2>
 
 ### On Docker (Optional):
-Run ``` docker build -t spring-boot-stone-chalenger-java-app:1.0 . ``` and ``` docker run -p 8080:8080 spring-boot-stone-chalenger-java-app:1.0 . ``` to run on the Docker.
+Run ``` docker build -t spring-boot-stone-chalenger-java-app:1.0 . ``` and ``` docker run -p 8080:8080 spring-boot-stone-chalenger-java-app:1.0``` to run on the Docker.
 
 <p> After start this project locally or on Docker, you can use next collections: </p>
 
